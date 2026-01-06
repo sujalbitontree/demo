@@ -2,4 +2,4 @@ Hello this is sample file
 second change
 
 
-staging
+staging area
